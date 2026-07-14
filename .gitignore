@@ -63,3 +63,4 @@ coverage/
 *.tmp
 *.swp
 .vercel
+.env*
