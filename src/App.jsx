@@ -1,9 +1,12 @@
+import React from "react";
+
 function App() {
   return (
-    <div>
-      <h1>Hello from new features 🚀</h1>
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>Dev Branch</h1>
+      <p>Your React app is running successfully 🚀</p>
     </div>
-  )
+  );
 }
 
 export default App;
